@@ -1,6 +1,6 @@
 # DocCBlogDemo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1ab2f397-7e04-4b2e-b9b7-d14bcd73b956/deploy-status)](https://app.netlify.com/sites/docc-netlify/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9b258a3-53e5-4733-9b0a-95ef2263b988/deploy-status)](https://app.netlify.com/sites/naughty-jepsen-94fdce/deploys)
 
 Netlify configuration used to host [docc-netlify.josephduffy.co.uk](https://docc-netlify.josephduffy.co.uk/).
 
